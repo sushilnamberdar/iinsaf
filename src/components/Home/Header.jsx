@@ -43,7 +43,7 @@ const Header = () => {
               rel="noopener noreferrer"
               className="ml-2 text-sm hover:text-blue-500"
             >
-              <strong>Contact:</strong> IINSAF OFFICE SUNDAR NAGAR MAIN GATE
+              <strong>Contact:</strong> Near Govt College 
             </a>
           </div>
           <div className="flex items-center">
@@ -51,7 +51,7 @@ const Header = () => {
               <FaPhone className="text-blue-500 hover:text-white" />
             </div>
             <span className="ml-2 text-sm hover:text-blue-500">
-              <strong>Call Us:</strong> +91 999-1992-492
+              <strong>Call Us:</strong> +91 1234567890
             </span>
           </div>
         </div>
